@@ -1,0 +1,222 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstname": "Ali",
+      "lastname": "Valiyev",
+      "birthDate": "2010-05-12",
+      "gender": "male",
+      "class": "9-A",
+      "email": "ali@gmail.com",
+      "phone": "+998901234567",
+      "address": "Toshkent",
+      "parents": {
+        "fatherName": "Akmal Valiyev",
+        "fatherPhone": "+998901112233",
+        "motherName": "Dilnoza Valiyeva",
+        "motherPhone": "+998933334455"
+      },
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 2,
+      "firstname": "Bekzod",
+      "lastname": "Karimov",
+      "birthDate": "2009-08-21",
+      "gender": "male",
+      "class": "10-B",
+      "email": "bekzod@gmail.com",
+      "phone": "+998901111111",
+      "address": "Samarqand",
+      "parents": {
+        "fatherName": "Rustam Karimov",
+        "fatherPhone": "+998901111112",
+        "motherName": "Gulnoza Karimova",
+        "motherPhone": "+998901111113"
+      },
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 3,
+      "firstname": "Jasur",
+      "lastname": "Toshmatov",
+      "birthDate": "2011-03-15",
+      "gender": "male",
+      "class": "8-A",
+      "email": "jasur@gmail.com",
+      "phone": "+998902222221",
+      "address": "Buxoro",
+      "parents": {
+        "fatherName": "Olim Toshmatov",
+        "fatherPhone": "+998902222222",
+        "motherName": "Malika Toshmatova",
+        "motherPhone": "+998902222223"
+      },
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 4,
+      "firstname": "Madina",
+      "lastname": "Ergasheva",
+      "birthDate": "2010-11-10",
+      "gender": "female",
+      "class": "9-B",
+      "email": "madina@gmail.com",
+      "phone": "+998903333331",
+      "address": "Andijon",
+      "parents": {
+        "fatherName": "Anvar Ergashev",
+        "fatherPhone": "+998903333332",
+        "motherName": "Dilbar Ergasheva",
+        "motherPhone": "+998903333333"
+      },
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 5,
+      "firstname": "Sardor",
+      "lastname": "Raximov",
+      "birthDate": "2009-01-20",
+      "gender": "male",
+      "class": "10-A",
+      "email": "sardor@gmail.com",
+      "phone": "+998904444441",
+      "address": "Namangan",
+      "parents": {
+        "fatherName": "Sherzod Raximov",
+        "fatherPhone": "+998904444442",
+        "motherName": "Zarina Raximova",
+        "motherPhone": "+998904444443"
+      },
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 6,
+      "firstname": "Shahzoda",
+      "lastname": "Qodirova",
+      "birthDate": "2011-07-08",
+      "gender": "female",
+      "class": "8-B",
+      "email": "shahzoda@gmail.com",
+      "phone": "+998905555551",
+      "address": "Farg'ona",
+      "parents": {
+        "fatherName": "Kamol Qodirov",
+        "fatherPhone": "+998905555552",
+        "motherName": "Nigora Qodirova",
+        "motherPhone": "+998905555553"
+      },
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 7,
+      "firstname": "Oybek",
+      "lastname": "Nazarov",
+      "birthDate": "2010-04-02",
+      "gender": "male",
+      "class": "9-C",
+      "email": "oybek@gmail.com",
+      "phone": "+998906666661",
+      "address": "Xorazm",
+      "parents": {
+        "fatherName": "Botir Nazarov",
+        "fatherPhone": "+998906666662",
+        "motherName": "Mavluda Nazarova",
+        "motherPhone": "+998906666663"
+      },
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 8,
+      "firstname": "Mohira",
+      "lastname": "Yusupova",
+      "birthDate": "2009-09-30",
+      "gender": "female",
+      "class": "10-C",
+      "email": "mohira@gmail.com",
+      "phone": "+998907777771",
+      "address": "Qarshi",
+      "parents": {
+        "fatherName": "Bahrom Yusupov",
+        "fatherPhone": "+998907777772",
+        "motherName": "Sevara Yusupova",
+        "motherPhone": "+998907777773"
+      },
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 9,
+      "firstname": "Kamron",
+      "lastname": "Turgunov",
+      "birthDate": "2011-12-05",
+      "gender": "male",
+      "class": "8-C",
+      "email": "kamron@gmail.com",
+      "phone": "+998908888881",
+      "address": "Navoiy",
+      "parents": {
+        "fatherName": "Odil Turgunov",
+        "fatherPhone": "+998908888882",
+        "motherName": "Lola Turgunova",
+        "motherPhone": "+998908888883"
+      },
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 10,
+      "firstname": "Aziza",
+      "lastname": "Murodova",
+      "birthDate": "2010-06-17",
+      "gender": "female",
+      "class": "9-D",
+      "email": "aziza@gmail.com",
+      "phone": "+998909999991",
+      "address": "Jizzax",
+      "parents": {
+        "fatherName": "Ulugbek Murodov",
+        "fatherPhone": "+998909999992",
+        "motherName": "Munisa Murodova",
+        "motherPhone": "+998909999993"
+      },
+      "createdAt": "2026-06-18"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "firstname": "Aziz",
+      "lastname": "Karimov",
+      "birthDate": "1990-08-15",
+      "gender": "male",
+      "subject": "Matematika",
+      "email": "aziz@gmail.com",
+      "phone": "+998901010101",
+      "address": "Toshkent",
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 2,
+      "firstname": "Dilshod",
+      "lastname": "Rasulov",
+      "birthDate": "1988-05-20",
+      "gender": "male",
+      "subject": "Ingliz tili",
+      "email": "dilshod@gmail.com",
+      "phone": "+998902020202",
+      "address": "Samarqand",
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": 3,
+      "firstname": "Malika",
+      "lastname": "Abdullayeva",
+      "birthDate": "1992-11-12",
+      "gender": "female",
+      "subject": "Fizika",
+      "email": "malika@gmail.com",
+      "phone": "+998903030303",
+      "address": "Buxoro",
+      "createdAt": "2026-06-18"
+    }
+  ]
+}
