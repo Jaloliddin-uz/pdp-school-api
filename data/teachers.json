@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "firstname": "Aziz",
+    "lastname": "Karimov",
+    "birthDate": "1990-08-15",
+    "gender": "male",
+    "subject": "Matematika",
+    "email": "aziz@gmail.com",
+    "phone": "+998901010101",
+    "address": "Toshkent",
+    "createdAt": "2026-06-18"
+  },
+  {
+    "id": 2,
+    "firstname": "Dilshod",
+    "lastname": "Rasulov",
+    "birthDate": "1988-05-20",
+    "gender": "male",
+    "subject": "Ingliz tili",
+    "email": "dilshod@gmail.com",
+    "phone": "+998902020202",
+    "address": "Samarqand",
+    "createdAt": "2026-06-18"
+  },
+  {
+    "id": 3,
+    "firstname": "Malika",
+    "lastname": "Abdullayeva",
+    "birthDate": "1992-11-12",
+    "gender": "female",
+    "subject": "Fizika",
+    "email": "malika@gmail.com",
+    "phone": "+998903030303",
+    "address": "Buxoro",
+    "createdAt": "2026-06-18"
+  }
+]
